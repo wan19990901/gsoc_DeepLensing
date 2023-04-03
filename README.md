@@ -76,7 +76,11 @@ The training history of loss and AUC scores were plotted for both models.
 
 ![BEIT Histories](beit_history.png)
 
-<p style="font-size: 18px; text-align: center;"> BEIT Model Trianing History </p>
+<p style="font-size: 18px; text-align: center;"> BEIT Model Trianing History (Training) </p>
+
+![BEIT Histories](beit_val_history.png)
+
+<p style="font-size: 18px; text-align: center;"> BEIT Model Trianing History (Validation) </p>
 
 See details for data preprocessing under [TaskV HuggingFace/TorchVision](taskV_HF.ipynb)
 
